@@ -1,5 +1,4 @@
 This is changes
-an
-interesting
+a simple
 example
 file
